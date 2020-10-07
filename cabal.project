@@ -1,0 +1,3 @@
+allow-newer: diagrams-svg:base diagrams-contrib:base diagrams-lib:base force-layout:base svg-builder:base monoid-extras:base diagrams-core:base diagrams-lib:base dual-tree:base active:base 
+
+packages: ./
