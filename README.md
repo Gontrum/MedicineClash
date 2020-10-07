@@ -2,6 +2,12 @@
 
 Haskell implementation of the [Medicine Clash Kata](https://github.com/emilybache/KataMedicineClash)
 
+### Run tests
+
+You can run the tests with `cabal run`
+
+---
+
 __As a__ Health Insurer,
 
 __I want__ to be able to search for patients who have a medicine clash,
