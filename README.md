@@ -4,7 +4,12 @@ Haskell implementation of the [Medicine Clash Kata](https://github.com/emilybach
 
 ### Run tests
 
-You can run the tests with `cabal run`
+You can run the tests with `cabal run test`
+
+### Draw diagram
+
+executing `./draw.sh` creates a diagram `output.svg` in project folder.
+The content is the first and the last day of some test data and will be extended in the future. 
 
 ---
 

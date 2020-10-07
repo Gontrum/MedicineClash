@@ -1,4 +1,4 @@
-module Clash.MedicineClash (clash, daysWhenMedicineWasTaken, Patient(Patient), Medicine(Medicine), Prescription(Prescription)) where
+module Clash.MedicineClash (clash, daysWhenMedicineWasTaken, daysPerPrescription, Patient(Patient), Medicine(Medicine), Prescription(Prescription)) where
 
 import Data.Function ((&))
 import Data.Time (Day, fromGregorian, addDays)
